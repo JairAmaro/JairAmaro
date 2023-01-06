@@ -1,7 +1,7 @@
 <div id = "header" align = "center">
     <img src = "https://media.giphy.com/media/9JeJyQu07mvhG2p87z/giphy.gif" width="100" />
     <h1 align = "center">Hola 👋, un gusto soy Jair Amaro</h1>
-    <h3 align = "center">Acturio interesado por la ciencia de datos, de México para el mundo. aqui deberia poner mas texto que digas wow.</h3>
+    <h3 align = "center">Estudiante de ultimos semestres de Actuaría interesado por la ciencia de datos, de México para el mundo. aqui deberia poner mas texto que digas wow.</h3>
 </div>
 
 
@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram Badge" />
     </a>
-    <a href="https://twitter.com/shin_sheron" target="_blank">
+    <a href="https://twitter.com/shin_sheron" target="_blank"> 
         <img src="https://img.shields.io/twitter/follow/shin_sheron?color=blue&logo=twitter&logoColor=blue&style=plastic"
             alt="Twitter Badge" />
     </a>
@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Soy estudiante de ultimos semestres de la licenciatura de actuaria
+- 📝 Soy estudiante de la licenciatura de Actuaría
 
 - 💬 Preguntame sobre, los principales que me gustan **R, MySQL, Python**
 
@@ -54,5 +54,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JairAmaro&theme=blueberry&border_radius=5&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairAmaro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
