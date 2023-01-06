@@ -1,16 +1,58 @@
-### Hi there 👋
+<div id = "header" align = "center">
+    <img src = "https://media.giphy.com/media/9JeJyQu07mvhG2p87z/giphy.gif" width="100" />
+    <h1 align = "center">Hola 👋, un gusto soy Jair Amaro</h1>
+    <h3 align = "center">Acturio interesado por la ciencia de datos, de México para el mundo. aqui deberia poner mas texto que digas wow.</h3>
+</div>
 
-<!--
-**JairAmaro/JairAmaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+    <a href="https://mx.linkedin.com" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn Badge" />
+    </a>
+    <a href="https://www.instagram.com/shin_sheron" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram Badge" />
+    </a>
+    <a href="https://twitter.com/shin_sheron" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/shin_sheron?color=blue&logo=twitter&logoColor=blue&style=plastic"
+            alt="Twitter Badge" />
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 👨‍💻 Sobre mi :
+
+- 📝 Soy estudiante de ultimos semestres de la licenciatura de actuaria
+
+- 💬 Preguntame sobre, los principales que me gustan **R, MySQL, Python**
+
+- 📫 Como contactarme **oscar.jair.amaro@gmail.com**
+
+- 🌱 Otros **SAS y Wolfram  Mathematica **
+
+
+
+<div align="left">
+    <h3>🔨 Lenguajes and herramientas:</h3>
+    <div>
+        <img src= <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R studio"  alt="R studio" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode"  alt="VS code" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
+      </div>
+</div>
+
+---
+
+### 📊 Mis estadísticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JairAmaro&theme=blueberry&border_radius=5&locale=es&mode=weekly)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
