@@ -25,11 +25,13 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Soy estudiante de la licenciatura de Actuaría
+- 📝 Soy estudiante de la licenciatura de Actuaría 
 
-- 💬 Preguntame sobre, los principales que me gustan **R, MySQL, Python**
+- 💬 ¿Que me gusta? principalmente: **R, MySQL, Python**
 
 - 📫 Como contactarme **oscar.jair.amaro@gmail.com**
+
+- :dizzy:	 
 
 - 🌱 Otros **SAS y Wolfram  Mathematica **
 
