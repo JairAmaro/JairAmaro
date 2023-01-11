@@ -1,7 +1,7 @@
 <div id = "header" align = "center">
     <img src = "https://media.giphy.com/media/9JeJyQu07mvhG2p87z/giphy.gif" width="100" />
     <h1 align = "center">Hola 👋, un gusto soy Jair Amaro</h1>
-    <h3 align = "center">Estudiante de ultimos semestres de Actuaría interesado por la ciencia de datos, de México para el mundo. aqui deberia poner mas texto que digas wow.</h3>
+    <h3 align = "center">Estudiante de ultimos semestres de Actuaría interesado por la ciencia de datos, de México para el mundo. </h3>
 </div>
 
 
@@ -31,7 +31,7 @@
 
 - 📫 Como contactarme **oscar.jair.amaro@gmail.com**
 
-- :dizzy:	 
+- 💫 Normalmente con las librerias que trabajo son: Pandas, Matplotlib, NumPy, seaborn, SymPy, sqlite3 (aunque tambien he usado liberias con enfoques mas creativos dejando un lado las matemáticas, matemáticas, análisis. Un mundo divertidamente enorme) 💫
 
 - 🌱 Otros **SAS y Wolfram  Mathematica **
 
