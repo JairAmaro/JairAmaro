@@ -31,7 +31,7 @@
 
 - 📫 Como contactarme **oscar.jair.amaro@gmail.com**
 
-- 💫 Normalmente con las librerias que trabajo son: Pandas, Matplotlib, NumPy, seaborn, SymPy, sqlite3 (aunque tambien he usado liberias con enfoques mas creativos dejando un lado las matemáticas, matemáticas, análisis. Un mundo divertidamente enorme) 💫
+- 💫 Normalmente con las librerias que trabajo son: Pandas, Matplotlib, NumPy, seaborn, SymPy, sqlite3 (aunque tambien he usado liberias con enfoques mas creativos dejando un lado las matemáticas, estadísticas, análisis. Un mundo divertidamente enorme) 💫
 
 - 🌱 Otros **SAS y Wolfram  Mathematica **
 
