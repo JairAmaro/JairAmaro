@@ -33,7 +33,7 @@
 
 - 💫 Normalmente con las librerias que trabajo son: Pandas, Matplotlib, NumPy, seaborn, SymPy, sqlite3 (aunque tambien he usado liberias con enfoques mas creativos dejando un lado las matemáticas, estadísticas, análisis. Un mundo divertidamente enorme) 💫
 
-- 🌱 Otros **SAS y Wolfram  Mathematica **
+- 🌱 Otros **SAS y Wolfram  Mathematica**
 
 
 
