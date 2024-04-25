@@ -45,10 +45,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R studio"  alt="R studio" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode"  alt="VS code" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="apacheairflow" **alt="apacheairflow" width="40" height="40"/>;
-        <img src= "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" **alt="GoogleCloud" width="40" height="40"/>&nbsp;
-        <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="apacheairflow" **alt="apacheairflow" width="40" height="40"/>&nbsp;
+        <img src= "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" **alt="GoogleCloud" width="40" height="40"/&nbsp;
+        <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp
       </div>
 </div>
 
