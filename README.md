@@ -1,7 +1,7 @@
 <div id = "header" align = "center">
     <img src = "https://media.giphy.com/media/9JeJyQu07mvhG2p87z/giphy.gif" width="100" />
     <h1 align = "center">Hola 👋, un gusto soy Jair Amaro</h1>
-    <h3 align = "center">Estudiante de ultimos semestres de Actuaría interesado por la ciencia de datos, de México para el mundo. </h3>
+    <h3 align = "center">Egresado de la licenciatura de Acturia. interesado por la ciencia de datos, de México para el mundo. </h3>
 </div>
 
 
@@ -25,11 +25,11 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Soy estudiante de la licenciatura de Actuaría 
+- 📝 licenciatura de Actuaría 
 
-- 💬 ¿Que me gusta? principalmente: **R, MySQL, Python**
+- 💬 ¿Que me gusta? principalmente: **R, MySQL, Python, Cloud (GCP)**
 
-- 📫 Como contactarme **oscar.jair.amaro@gmail.com**
+- 📫 Como contactarme **oscar.jair.actuaria@gmail.com**
 
 - 💫 Normalmente con las librerias que trabajo son: Pandas, Matplotlib, NumPy, seaborn, SymPy, sqlite3 (aunque tambien he usado liberias con enfoques mas creativos dejando un lado las matemáticas, estadísticas, análisis. Un mundo divertidamente enorme) 💫
 
