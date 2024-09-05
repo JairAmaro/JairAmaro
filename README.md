@@ -71,9 +71,10 @@
 
 Aquí hay algunos de mis repositorios más importantes:
 
-- [**Portafolio (Analisis y ciencia de datos**]([https://github.com/tu_usuario/repositorio1](https://github.com/JairAmaro/Portafolio)): Este portafolio tiene proyectos de data real, ya que es más complicado resolver una problemática o bien traducir algo en dinero dinero con un gran volumen de datos, sea escalable, optimizado y planteamiento a cliente
+- [**Portafolio Análisis y Ciencia de Datos**](https://github.com/JairAmaro/Portafolio):
+Este portafolio tiene proyectos de data real, ya que es más complicado resolver una problemática o bien traducir algo en dinero dinero con un gran volumen de datos, sea escalable, optimizado y planteamiento a cliente
 
-Hay mas poero solo colocare los de mayor peso 💯
+Hay mas pero solo colocare los de mayor peso 💯
 
 ---
 
