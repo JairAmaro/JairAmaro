@@ -79,9 +79,11 @@ Hay mas pero solo colocare los de mayor peso 💯
 ---
 
 ### 📊 Mis estadísticas :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JairAmaro&theme=midnight-purple)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JairAmaro&theme=midnight-purple" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairAmaro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
