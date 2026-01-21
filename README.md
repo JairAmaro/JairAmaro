@@ -82,13 +82,14 @@ Hay más, pero solo colocaré los de mayor peso 💯
 <h2 align="center">📊 Mis estadísticas</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=JairAmaro&theme=midnight-purple"
+  <a href="https://github.com/JairAmaro">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=JairAmaro&theme=midnight-purple&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
 </div>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairAmaro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
