@@ -1,7 +1,7 @@
 <div id = "header" align = "center">
     <img src = "https://media.giphy.com/media/9JeJyQu07mvhG2p87z/giphy.gif" width="100" />
     <h1 align = "center">Hola 👋, un gusto soy Jair Amaro</h1>
-    <h3 align = "center">Egresado de la licenciatura de Actuaría interesado por la ciencia de datos, analisis de datos y ingenieria de datos. </h3>
+    <h3 align = "center">Actuario interesado por la ciencia de datos, analisis de datos y ingenieria de datos </h3>
 </div>
 
 
