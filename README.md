@@ -40,8 +40,7 @@
   **BigQuery**, **Cloud Storage**, **Vertex AI**, **Docker**, **Apache Airflow**, **Git/GitHub**,  
   **BI**: Power BI y Looker.
 
-- 📊 Experiencia destacada:  
-  Automatización de procesos end-to-end en entornos productivos, modelado y diseño de tablas analíticas, migración de flujos a GCP, despliegue con contenedores y generación de dashboards en tiempo casi real para soporte a decisiones estratégicas y detección de riesgos
+
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
